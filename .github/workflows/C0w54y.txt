@@ -1,0 +1,1 @@
+cowsay -f eyes 6vil_ãñ0ñym0uß | lolcat
